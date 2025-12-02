@@ -89,7 +89,7 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 Je suis ouvert aux opportunités en tant qu'**Administrateur Système et Réseau** ou **Analyste Sécurité**.
 
 * [LinkedIn](https://www.linkedin.com/in/jonathan-youssef-0501ba14a)
-* [Email](y.jonathan2402@gmail.com)
+* y.jonathan2402@gmail.com
 
 ---
 *Portfolio généré à partir de projets réels réalisés en 2024-2025.*
