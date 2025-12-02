@@ -89,7 +89,7 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 
 Je suis ouvert aux opportunités en tant qu'**Administrateur Système et Réseau** ou **Analyste Sécurité**.
 
-* [LinkedIn](https://www.linkedin.com/in/votre-profil)
+* [LinkedIn](www.linkedin.com/in/jonathan-youssef-0501ba14a)
 * [Email](mailto:votre.email@example.com)
 
 ---
