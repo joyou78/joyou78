@@ -84,7 +84,7 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 
 ---
 
-### 📫 Me Contacter 0618658861 y.jonathan2402@gmail.com
+### 📫 Me Contacter 
 
 Je suis ouvert aux opportunités en tant qu'**Administrateur Système et Réseau** ou **Analyste Sécurité**.
 
