@@ -3,7 +3,7 @@
 **Orienté Cloud, Cyberdéfense & Fiabilité Opérationnelle**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-youssef-0501ba14a)
-[![CV](https://img.shields.io/badge/CV-Télécharger_PDF-success?style=for-the-badge&logo=adobeacrobatreader)](lien_vers_votre_cv.pdf)
+[![CV](https://img.shields.io/badge/CV-Télécharger_PDF-success?style=for-the-badge&logo=adobeacrobatreader)](CV_Jonathan_Youssef.pdf)
 
 ---
 
