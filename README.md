@@ -3,7 +3,7 @@
 **Orienté Cloud, Cyberdéfense & Fiabilité Opérationnelle**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-youssef-0501ba14a)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:votre.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:y.jonathan2402@gmail.com)
 [![CV](https://img.shields.io/badge/CV-Télécharger_PDF-success?style=for-the-badge&logo=adobeacrobatreader)](lien_vers_votre_cv.pdf)
 
 ---
