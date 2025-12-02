@@ -39,7 +39,7 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 * [cite_start]**L'Attaque :** Compromission totale du domaine en 65 minutes (Password Spraying > Pass-the-Hash > Dump LSASS > DCSync)[cite: 799, 2788].
 * [cite_start]**La Défense :** Plan d'action priorisé : Rotation du hash `krbtgt`, déploiement de LAPS et durcissement des accès privilèges (Credential Guard)[cite: 2866].
 
-[Voir le projet sur GitHub ➔](#) *(Lien vers votre repo P11)*
+[Voir le projet sur GitHub ➔](#) *(https://github.com/joyou78/Projet-Audit-Active-Directory)*
 
 ### 2. ☁️ Migration Cloud Haute Disponibilité (Souveraineté des Données)
 *Architecture Hybride - OVHcloud - FinOps*
@@ -49,7 +49,7 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 * **Réalisation :** Conception d'une architecture résiliente Multi-AZ. [cite_start]Remplacement des SPOF (Single Point of Failure) par des services managés (PaaS) avec auto-scaling[cite: 3051].
 * [cite_start]**Résultat :** Disponibilité 99.99%, conformité RGPD garantie et modèle de coût OPEX optimisé (~500€/mois)[cite: 3537].
 
-[Voir le projet sur GitHub ➔](#) *(Lien vers votre repo P12)*
+[Voir le projet sur GitHub ➔](#) *(https://github.com/joyou78/Projet-Migration-Cloud)*
 
 ### 3. 🔒 Refonte Réseau Sécurisée (Conformité ANSSI)
 *Réseau - Firewalling - Segmentation*
@@ -59,7 +59,7 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 * **Réalisation :** Segmentation "Zero Trust" (Utilisateurs/Serveurs/Admin/IoT). [cite_start]Mise en place d'une DMZ avec Reverse Proxy et filtrage DPI (Deep Packet Inspection)[cite: 3316, 3328].
 * **Résultat :** Infrastructure conforme, cloisonnée contre les ransomwares et documentée (Schémas logique/physique).
 
-[Voir le projet sur GitHub ➔](#) *(Lien vers votre repo P10)*
+[Voir le projet sur GitHub ➔](#) *(https://github.com/joyou78/Projet-Securisation-Reseau-ANSSI)*
 
 ---
 
