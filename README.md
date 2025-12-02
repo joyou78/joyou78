@@ -3,7 +3,6 @@
 **Orienté Cloud, Cyberdéfense & Fiabilité Opérationnelle**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jonathan-youssef-0501ba14a)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:y.jonathan2402@gmail.com)
 [![CV](https://img.shields.io/badge/CV-Télécharger_PDF-success?style=for-the-badge&logo=adobeacrobatreader)](lien_vers_votre_cv.pdf)
 
 ---
@@ -89,8 +88,8 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 
 Je suis ouvert aux opportunités en tant qu'**Administrateur Système et Réseau** ou **Analyste Sécurité**.
 
-* [LinkedIn](www.linkedin.com/in/jonathan-youssef-0501ba14a)
-* [Email](mailto:votre.email@example.com)
+* [LinkedIn](https://www.linkedin.com/in/jonathan-youssef-0501ba14a)
+* [Email](y.jonathan2402@gmail.com)
 
 ---
 *Portfolio généré à partir de projets réels réalisés en 2024-2025.*
