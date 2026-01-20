@@ -24,7 +24,7 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 | **🛡️ Cybersécurité** | **Audit:** Nmap, CrackMapExec, BloodHound, Mimikatz, Rubeus <br> **Défense:** Hardening ANSSI, Tiering Model (PAW), LAPS, Credential Guard |
 | **☁️ Cloud & Infra** | **OVHcloud (Public Cloud, vRack)**, HAProxy, Load Balancing, Auto-scaling <br> **PaaS:** Managed Databases (MySQL), NetApp ONTAP |
 | **💻 SysAdmin** | **Windows Server:** AD DS, DNS/DHCP, GPO, WSUS, PowerShell <br> **Linux:** Debian/Ubuntu, Bash, Apache/Nginx, GLPI |
-| **🌐 Réseau** | **Hardware:** Fortinet (FortiGate), Cisco, Arista <br> **Protocoles:** VLANs, IPsec VPN, 802.1x (Radius), Wireshark |
+| **🌐 Réseau** | **Hardware:**  (pfsence), Cisco, Arista <br> **Protocoles:** VLANs, IPsec VPN, 802.1x (Radius), Wireshark |
 
 ---
 
