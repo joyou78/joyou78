@@ -9,7 +9,7 @@
 
 ## 👨‍💻 À Propos
 
-Je ne suis pas là pour simplement "maintenir" des serveurs, mais pour construire des infrastructures **résilientes**, **sécurisées** et **évolutives**.
+Je suis là pour "maintenir" des serveurs, mais aussi pour construire des infrastructures **résilientes**, **sécurisées** et **évolutives**.
 
 Issu d'un parcours intensif validé par **12 projets de mise en situation réelle**, j'ai développé une double compétence : la rigueur de l'administrateur système (construire, documenter, maintenir) et l'état d'esprit de l'auditeur sécurité (attaquer pour mieux défendre).
 
@@ -54,7 +54,7 @@ Mon approche est pragmatique : **une infrastructure réussie est une infrastruct
 *Réseau - Firewalling - Segmentation*
 
 **Le Défi :** Reconstruction complète du réseau d'un site R&D Pharma selon les recommandations strictes de l'ANSSI.
-* **Stack :** `Fortinet 60F` `VLANs` `Radius 802.1x` `VPN IPsec`
+* **Stack :** ` pfsence 60F` `VLANs` `Radius 802.1x` `VPN IPsec`
 * **Réalisation :** Segmentation "Zero Trust" (Utilisateurs/Serveurs/Admin/IoT). [cite_start]Mise en place d'une DMZ avec Reverse Proxy et filtrage DPI (Deep Packet Inspection)[cite: 3316, 3328].
 * **Résultat :** Infrastructure conforme, cloisonnée contre les ransomwares et documentée (Schémas logique/physique).
 
